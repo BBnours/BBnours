@@ -8,7 +8,6 @@ You didn't ask for but I also love photography 📷, Japanese and korean culture
 
 
 ## Connect with me 🌐
-<br />
 
 
 [<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-right:10px;" />][linkedin]
@@ -18,7 +17,6 @@ You didn't ask for but I also love photography 📷, Japanese and korean culture
 <br />
 
 ## General Languages and Tools 👨‍💻
-<br />
 
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
