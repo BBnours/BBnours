@@ -40,12 +40,9 @@ You didn't ask for but I also love photography 📷, Japanese and korean culture
 
 ## GitHub Stats 📊
 
-<details>
-  <summary>My stats</summary>
-
 <img align="left" alt="bbnours's GitHub Stats" src="https://github-readme-stats-bbnours.vercel.app/api?username=bbnours&show_icons=true&hide_border=false&theme=panda" />
 
-</details>
+
 
 <br/>
 <br/>
