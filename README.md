@@ -7,7 +7,9 @@ I love learning and trying stuff. Want to learn more about programing, IT, data 
 You didn't ask for but I also love photography 📷, Japanese and korean culture. 
 
 
-## Connect with me:
+## Connect with me 🌐
+<br />
+
 
 [<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="padding-right:10px;" />][instagram]
@@ -15,7 +17,8 @@ You didn't ask for but I also love photography 📷, Japanese and korean culture
 <br />
 <br />
 
-## Languages and Tools:
+## General Languages and Tools 👨‍💻
+<br />
 
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -37,7 +40,7 @@ You didn't ask for but I also love photography 📷, Japanese and korean culture
 
 ---
 
-## GitHub Stats
+## GitHub Stats 📊
 
 <details>
   <summary>My stats</summary>
@@ -48,19 +51,15 @@ You didn't ask for but I also love photography 📷, Japanese and korean culture
 
 <br/>
 <br/>
+<!-- 
+##  The languages I'm recently using 🔊
 
-## Recent GitHub activity
-
-<details>
-  <summary>Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
+| ⏰ Past month                                                                                                                                           | ⌛️ Past Year                                                                                                                                           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://wakatime.com/@bbnours"><img src="https://wakatime.com/share/@bbnours/97358ee5-e081-42a4-866f-7bdd05db0cba.svg" height="300px"></a> | <a href="https://wakatime.com/@bbnours"><img src="https://wakatime.com/share/@bbnours/2f974bc2-6948-40a2-92fe-2a31edef4d7e.svg" height="300px"></a> |
 
 <br />
-<br />
+<br /> -->
 
 
 
