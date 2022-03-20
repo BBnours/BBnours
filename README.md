@@ -11,11 +11,18 @@
 	</a>
 </p>
 
+<p align="center">
+<a href="https://open.spotify.com/user/11143912297?si=e6678a78ccd240f0">
+		<img src="https://novatorem-bbnours.vercel.app/api/spotify" />
+	</a>
+</p>
+
 I'm a french student in computer science and software engineering 😁
 
-I love learning and trying stuff. Want to learn more about programing, IT, data analyse and data science. Hope I'll learn enough in my curent lifetime 🖖
+I love learning and trying stuff. Python is my main, I'm a **Python enthusiast** ! Want to learn more about programing, IT, data analyse and data science. Hope I'll learn enough in my curent lifetime 🖖 
 
 You didn't ask for but I also love photography 📷, Japanese and korean culture. 
+
 <br/>
 <br/>
 
@@ -25,6 +32,7 @@ You didn't ask for but I also love photography 📷, Japanese and korean culture
 
 
 ### 🌍 Languages
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -47,13 +55,10 @@ You didn't ask for but I also love photography 📷, Japanese and korean culture
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-<br />
-<br />
 
 # 📈 My data enthusiast life 
 
@@ -72,8 +77,6 @@ You didn't ask for but I also love photography 📷, Japanese and korean culture
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
 
 
-<br />
-<br />
 
 ---
 
