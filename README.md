@@ -1,4 +1,5 @@
 # Hi there, I'm Olivier Gomes <img src="/src/wave.gif" width="30px">
+
 <p align="center">
 	<a href="https://www.linkedin.com/in/oliviergomes/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,9 +23,6 @@ I'm a french student in computer science and software engineering 😁
 I love learning and trying stuff. Python is my main, I'm a **Python enthusiast** ! Want to learn more about programing, IT, data analyse and data science. Hope I'll learn enough in my curent lifetime 🖖 
 
 You didn't ask for but I also love photography 📷, Japanese and korean culture. 
-
-<br/>
-<br/>
 
 # 👨‍💻 My dev life 
 
