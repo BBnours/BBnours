@@ -79,22 +79,11 @@ You didn't ask for but I also love photography 📷, Japanese and korean culture
 
 ## GitHub Stats 📊
 
-### Overall 
-
   <img align="left" alt="bbnours's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bbnours&show_icons=true&hide_border=false&theme=panda" />
 
 
-<br/>
-<br/>
-<!-- 
-##  The languages I'm recently using 🔊
-
-| ⏰ Past month                                                                                                                                           | ⌛️ Past Year                                                                                                                                           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://wakatime.com/@bbnours"><img src="https://wakatime.com/share/@bbnours/97358ee5-e081-42a4-866f-7bdd05db0cba.svg" height="300px"></a> | <a href="https://wakatime.com/@bbnours"><img src="https://wakatime.com/share/@bbnours/2f974bc2-6948-40a2-92fe-2a31edef4d7e.svg" height="300px"></a> |
-
 <br />
-<br /> -->
+<br /> 
 
 
 
